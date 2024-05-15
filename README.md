@@ -12,11 +12,12 @@ Social media addiction is a growing concern, particularly among adolescents, lea
 
 Existing solutions for managing social media usage are often limited in scope, typically addressing either general usage statistics or basic reminders. D-Screen AI takes a comprehensive approach by:
 
-Providing 24/7 support through AI-driven interactions.
-Offering personalized strategies based on individual usage patterns and addiction severity.
-Using AI to generate engaging and effective reminders and goals.
-Promoting healthier online habits through continuous assessment and feedback.
-Most importantly, D-Screen AI aims to offer practical and personalized support, helping users to reduce their social media usage and improve their overall well-being.
+- Providing 24/7 support through AI-driven interactions.
+- Offering personalized strategies based on individual usage patterns and addiction severity.
+- Using AI to generate engaging and effective reminders and goals.
+- Promoting healthier online habits through continuous assessment and feedback.
+- Most importantly, D-Screen AI aims to offer practical and personalized support, helping users to reduce their social media 
+  usage and improve their overall well-being. 
 
 ## Our Solution
 
