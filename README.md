@@ -18,6 +18,7 @@ Existing solutions for managing social media usage are often limited in scope, t
 - Promoting healthier online habits through continuous assessment and feedback.
 - Most importantly, D-Screen AI aims to offer practical and personalized support, helping users to reduce their social media 
   usage and improve their overall well-being. 
+![Feature 1](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/4a6251a5-50ff-49b0-8c65-67f09d6eb72f)
 
 ## Our Solution
 
