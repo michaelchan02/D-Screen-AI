@@ -31,3 +31,6 @@ The application uses OpenAI's GPT for text generation and Streamlit for creating
 ![Feature 1](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/016002b0-124c-4a19-8799-ac285720a56b)
 ![Feature 2](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/4a6251a5-50ff-49b0-8c65-67f09d6eb72f)
 ![Feature 3](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/e1ac37af-cb4f-4db0-98b6-f54f46d38a04)
+
+## See Our Demo Video 
+[![Watch the Video Here!](https://img.youtube.com/vi/3fT6ckPJAsg&t/0.jpg)](https://www.youtube.com/watch?v=3fT6ckPJAsg&t)
