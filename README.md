@@ -18,7 +18,7 @@ Existing solutions for managing social media usage are often limited in scope, t
 - Promoting healthier online habits through continuous assessment and feedback.
 - Most importantly, D-Screen AI aims to offer practical and personalized support, helping users to reduce their social media 
   usage and improve their overall well-being. 
-![Feature 1](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/4a6251a5-50ff-49b0-8c65-67f09d6eb72f)
+![D-Screen AI Logo](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/09db165e-127d-40a1-b830-435005395f18)
 
 ## Our Solution
 
@@ -28,3 +28,6 @@ Personalized Reminders: Encouraging reminders based on the user's level of socia
 SMART Goals: Personalized goals that are Specific, Measurable, Achievable, Relevant, and Time-bound to help users gradually reduce their social media time.
 Addiction Assessment: A tool to assess the severity of social media addiction through AI-generated prompts and a user-friendly interface.
 The application uses OpenAI's GPT for text generation and Streamlit for creating an interactive web interface.
+![Feature 1](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/016002b0-124c-4a19-8799-ac285720a56b)
+![Feature 2](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/4a6251a5-50ff-49b0-8c65-67f09d6eb72f)
+![Feature 3](https://github.com/michaelchan02/D-Screen-AI/assets/167054362/e1ac37af-cb4f-4db0-98b6-f54f46d38a04)
