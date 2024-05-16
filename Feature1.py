@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Set your OpenAI API key
-api_key = "my-api-key"
+api_key = "KEY_HERE"
 
 def generate_reminder(addiction_level, age, gender):
     try:
